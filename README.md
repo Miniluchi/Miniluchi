@@ -4,7 +4,7 @@
 
 - 👨‍💼 **Nathan OGER**, 24 ans
 - 💻 **Ingénieur logiciel** 
-- 🎓 **En alternance** au campus Ynov Toulouse
+- 🎓 **En alternance** au campus Ynov de Toulouse
 - 🏢 **Alternant** chez Capgemini
 - 🎯 **Centres d'intérêt** : Développement & Sport
 
