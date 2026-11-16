@@ -1,9 +1,8 @@
 # 💫 About Me:
-👨‍💼 Nathan OGER, 24 years old<br/>
+👨‍💼 Nathan OGER, 26 years old<br/>
 💻 Software Engineer<br/>
-🎓 Studying at Ynov Campus Toulouse<br/>
 🏢 Working at Capgemini<br/>
-🎯 Interests: Development & Sports<br/>
+🎯 Interests: Self hosting & Sports<br/>
 
 
 ## 🌐 Socials:
